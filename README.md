@@ -1,12 +1,14 @@
 # Informe Tarea 9
 1. OBJETIVOS 
 
-   Objetivo general
+Objetivo general
 
+* Explicar y resolver los problemas presentados en los capítulos diecisiete y dieciocho del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente a circuitos RCL y Resonancia haciendo enfasis al analisis del regimen transitorio RLC con fuentes de corriente alterna para de esta manera poder encontrar un voltaje y las corrientes teniendo en cuenta los voltajes rms y pico a pico, su transformacion, sus frecuencias y desfaces, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con resistencias, inductancias y capacitancias.
 
-   Objetivos específicos
-   
-     * 
+Objetivos específicos
+
+* Identificar de una manera agil lo solicitado, resolver los circuitos RLC mediante los los metodos explicados en los precentes capitulos sobre resistencias, inductores y capacitores con corriente alterna.
+* Analizar de forma correcta los resultaos obtenidos obtenidos por los simuladores virtuales, empleando osiloscopios, establecer la relación con los elementos reales y entender como interactua la corriente alterna con las resistencias, inductores y capacitores.
 
 
 2. MARCO TEORICO
@@ -201,7 +203,8 @@
 
 5. CONCLUSIONES
 
-*	
+*	Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre las recistencias,  inductores y los capacitores en un circuito electrico RLC, tanto en serie como el paralelo o mixtos.
+*	La resolución de circuitos eléctricos con capacitores, inductores y resistencias, otorgó resultados confiables ya que fueron relacionados con los con simuladores virtuales, cada circuito reporto valores importantes que permitieron entender los valores y así brindar un análisis correcto, por lo tanto llegamos a comprender la aplicación del actual tema tratado.
 
 6. BIBLIOGRAFÍA 
  
