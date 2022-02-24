@@ -111,9 +111,13 @@ Objetivos específicos
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-65.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/63d1e25048d3bde4c4d5c84b5c7f0c5647e12b52/E27.PNG)
+   
    29.Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-66.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/63d1e25048d3bde4c4d5c84b5c7f0c5647e12b52/E29.PNG)
 
    31.En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
    
@@ -134,15 +138,21 @@ Objetivos específicos
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-70.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/63d1e25048d3bde4c4d5c84b5c7f0c5647e12b52/E37.PNG)
+   
    PARTE 4: TEMAS ESPECIALES
    
    *SECCIÓN 17–8 Ancho de banda de circuitos resonantes*
    
    39.En condición de resonancia, XL = 2 kΩ y RW =25Ω en un circuito RLC en paralelo. La frecuencia 
    resonante es de 5 kHz. Determine el ancho de banda.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/63d1e25048d3bde4c4d5c84b5c7f0c5647e12b52/E39.PNG)
 
    41.En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia 
    a la frecuencia crítica baja?
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/63d1e25048d3bde4c4d5c84b5c7f0c5647e12b52/E41.PNG)
 
    43.Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, 
    ¿cuál es el ancho de banda a la misma fr?
@@ -154,11 +164,15 @@ Objetivos específicos
    1.En cierto filtro pasabajas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la 
    entrada es de 10 V rms?
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/087a7186351c8487d3811d777e1ada69988c1345/A1.PNG)
+   
    3.Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia 
    especificada cuando Vent = 10 V.
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-38.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/087a7186351c8487d3811d777e1ada69988c1345/A3.PNG)
+  
    5.Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes
    frecuencias críticas:
    
