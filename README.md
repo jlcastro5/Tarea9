@@ -12,7 +12,8 @@ Objetivos específicos
 
 
 2. MARCO TEORICO
- ![]()
+ 
+ ![](https://github.com/jlcastro5/Tarea9/blob/50b111eb83dedeb2a527db17603576f117f7e643/TAREA9.jpeg)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   
