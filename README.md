@@ -27,20 +27,30 @@
    3.Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen 
    las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-59.PNG)
+   
    *SECCIÓN 17–2 Análisis de circuitos RLC en serie*
    
    5.Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
 
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-59.PNG)
+
    7.Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
+
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-60.PNG)
    
    *SECCIÓN 17–3 Resonancia en serie*
    
    9.Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-61.PNG)
+   
    11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. 
    El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
    
    13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-62.PNG)
 
    *15.Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar
     con un conmutador:
@@ -50,18 +60,28 @@
    *SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo *
    
    17.¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta. 
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
 
    *SECCIÓN 17–5 Análisis de circuitos RLC en paralelo*
    
    19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
+   
    21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19. 
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
    
    *SECCIÓN 17–6 Resonancia en paralelo*
    
    23.Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-64.PNG)
 
    25.Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-64.PNG)
    
    PARTE 3: CIRCUITOS EN SERIE-PARALELO
    
@@ -70,18 +90,30 @@
    27.Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente 
    y la corriente total.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-65.PNG)
+   
    29.Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-66.PNG)
 
    31.En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-67.PNG)
    
    *33.Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el 
    voltaje entre las terminales de cada componente.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-68.PNG)
+   
    *35.Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Ω conectado
    de a a b en la figura 17-69?
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-69.PNG)
+   
    *37.Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la
    figura 17-70.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-70.PNG)
    
    PARTE 4: TEMAS ESPECIALES
    
@@ -106,8 +138,12 @@
    3.Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia 
    especificada cuando Vent = 10 V.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-38.PNG)
+   
    5.Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes
    frecuencias críticas:
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-39.PNG)
    
    7.Trace una curva de Bode para cada una de las partes del problema 5.
 
@@ -122,18 +158,28 @@
    13.Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada
    cuando Vent =10 V.
    
-   15.Trace la curva de Bode para cada filtro mostrado en la figura 18-41. 
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-41.PNG)
+   
+   15.Trace la curva de Bode para cada filtro mostrado en la figura 18-41.
+
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-41.PNG)
 
    
    *SECCIÓN 18–3 Filtros pasabanda*
    
    17.Determine la frecuencia central para cada filtro de la figura 18-43.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-43.PNG)
+   
    19.¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la 
    respuesta es simétrica con respecto a f0.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-43.PNG)
+   
    21.Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4Ω, ¿cuál es el 
    voltaje de salida en condición de resonancia cuando Vent =120 V?
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-44.PNG)
    
    *23.Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes 
    especificaciones: AB = 500 Hz; Q = 40; e IC(máx) = 20 mA, VC(máx) = 2.5 V.
@@ -143,8 +189,12 @@
    
    25.Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
 
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-47.PNG)
+
    *27.Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200
    kHz y rechazar una señal con frecuencia de 456 kHz.
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-48.PNG)
    
   
 4. VIDEO
