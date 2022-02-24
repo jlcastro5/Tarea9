@@ -26,20 +26,28 @@ Objetivos específicos
    Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de
    5 kHz.
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E1.PNG)
+   
    3.Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen 
    las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-59.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E3.PNG)
    
    *SECCIÓN 17–2 Análisis de circuitos RLC en serie*
    
    5.Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
 
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-59.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E5.PNG)
 
    7.Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
 
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-60.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E7.PNG)
    
    *SECCIÓN 17–3 Resonancia en serie*
    
@@ -49,6 +57,8 @@ Objetivos específicos
    
    11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. 
    El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E11.PNG)
    
    13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
    
@@ -64,12 +74,16 @@ Objetivos específicos
    17.¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta. 
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E17.PNG)
 
    *SECCIÓN 17–5 Análisis de circuitos RLC en paralelo*
    
    19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E19.PNG)
    
    21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19. 
    
@@ -84,6 +98,8 @@ Objetivos específicos
    25.Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-64.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/204f2683e514247fe1ffd093cd39c9d192d91d6e/E25.PNG)
    
    PARTE 3: CIRCUITOS EN SERIE-PARALELO
    
