@@ -64,9 +64,15 @@ Objetivos específicos
    13.Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-62.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/83d9313292cc25a54c9be90f217b27da1012922c/P13.PNG)
+   
 
    *15.Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar
     con un conmutador:
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/80fe9700b8be815300e9be3b668cd28df999b61a/P15.PNG)
+    
    
    PARTE 2: CIRCUITOS EN PARALELO
    
@@ -89,6 +95,8 @@ Objetivos específicos
    21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19. 
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-63.PNG)
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/83d9313292cc25a54c9be90f217b27da1012922c/P21.PNG)
    
    *SECCIÓN 17–6 Resonancia en paralelo*
    
@@ -122,6 +130,9 @@ Objetivos específicos
    31.En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-67.PNG)
+   
+      
+   ![](https://github.com/jlcastro5/Tarea9/blob/80fe9700b8be815300e9be3b668cd28df999b61a/P31.PNG)
    
    *33.Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el 
    voltaje entre las terminales de cada componente.
