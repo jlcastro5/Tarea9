@@ -56,6 +56,8 @@ Objetivos específicos
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura17-61.PNG)
    
+   Al estar en frecuencia resonante Xc y XL se anulan por lo que la corriente será solo definida por R y Vs, entonces R tendrá el mismo voltaje que la fuente de 12V.
+   
    11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. 
    El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
    
@@ -167,6 +169,8 @@ Objetivos específicos
 
    43.Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, 
    ¿cuál es el ancho de banda a la misma fr?
+   
+   AB= 200 Hz
 
    **CAPITULO 18**
    
