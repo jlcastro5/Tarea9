@@ -178,10 +178,16 @@ Objetivos específicos
    
    ![](https://github.com/jlcastro5/Tarea9/blob/c1e96ecd6a7f4f5a877582c231dcc3db8cd93627/Figura18-39.PNG)
    
+   ![](https://github.com/jlcastro5/Tarea9/blob/4b11f769df7dad24e4b53db0152aa64220c37148/A5.PNG)
+   
    7.Trace una curva de Bode para cada una de las partes del problema 5.
+
+   ![](https://github.com/jlcastro5/Tarea9/blob/4b11f769df7dad24e4b53db0152aa64220c37148/A7.PNG)
 
    9.El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los 
    siguientes niveles de dB:
+   
+   ![](https://github.com/jlcastro5/Tarea9/blob/4b11f769df7dad24e4b53db0152aa64220c37148/A9.PNG)
    
    *SECCIÓN 18–2 Filtros pasaaltas*
    
