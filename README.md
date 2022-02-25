@@ -238,6 +238,8 @@ Objetivos específicos
   
 4. VIDEO
 
+   https://www.youtube.com/watch?v=Hjxme3s9bkw
+
 5. CONCLUSIONES
 
 *	Por medio del presente trabajo permitió aplicar los métodos ya conocidos sobre las recistencias,  inductores y los capacitores en un circuito electrico RLC, tanto en serie como el paralelo o mixtos.
